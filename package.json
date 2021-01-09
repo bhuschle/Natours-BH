@@ -1,0 +1,14 @@
+{
+  "name": "natours-bh",
+  "version": "1.0.0",
+  "description": "Nature Tours webpage Landing",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "author": "Brandon Huschle",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
